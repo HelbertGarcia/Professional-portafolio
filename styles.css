@@ -1,0 +1,42 @@
+.portafolio-header{
+    font-size: 35px;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.me-header{
+    font-size: 50px;
+}
+.perfil{
+    border-radius: 50%;
+    width: 350px;
+}
+
+.features-header{
+    font-size: 50px;
+}
+
+.icon-square{
+    border-radius: 10px;
+}
+
+.icon-square svg{
+    height: 40px;
+    width: 40px;
+}
+
+.lead{
+    text-align: left;
+}
+
+
+.proyects-header{
+font-size: 80px;
+text-align: center;
+}
